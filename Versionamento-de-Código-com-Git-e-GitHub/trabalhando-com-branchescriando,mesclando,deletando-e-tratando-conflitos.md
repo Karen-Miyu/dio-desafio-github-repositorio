@@ -34,11 +34,15 @@ Ocorre quando alguém altera remotamente, e você também faz alterações local
 
 ````
 git push origin main
-# vai aparecer que está conflitando.
+````
+Vai aparecer que está conflitando.
+````
 git pull
-# abra o arquivo e veja as alterações feita remota e localmente. Isso permite escolha qual das alterações se deseja deixar.
+````
+Abra o arquivo e veja as alterações feita remota e localmente. Isso permite escolha qual das alterações se deseja deixar.
+````
 git add .
 git commit -m"commit após o conflito"
 git push origin main
-# já realizou as alterações no github
 ````
+Já realizou as alterações no github.
