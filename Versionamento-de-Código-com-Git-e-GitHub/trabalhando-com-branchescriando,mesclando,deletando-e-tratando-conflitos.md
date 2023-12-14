@@ -15,14 +15,14 @@ echo "#commit-2-branch-main" > commit-2-branch-main.txt
 git add .
 git checkout -b teste
 ````
-alterna para essa nova branch chamada de 'teste'.
+alterna para essa nova branch chamada de _teste_.
 ````
 echo "#commit-3-branch-main" > commit-3-branch-main.txt
 git add .
 git commit -m"commit 3"
 git checkout main
 ````
-retorna para a branch 'main', e as alterações feitas na branch teste não aparece aqui.
+retorna para a branch _main_, e as alterações feitas na branch teste não aparece aqui.
 ````
 git branch -v
 ````
