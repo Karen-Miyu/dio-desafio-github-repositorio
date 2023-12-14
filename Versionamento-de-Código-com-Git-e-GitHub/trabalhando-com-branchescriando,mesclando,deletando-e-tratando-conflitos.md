@@ -21,7 +21,7 @@ git commit -m"commit 3"
 git checkout main
 #retorna para a branch 'main', e as alterações feitas na branch teste não aparece aqui.
 git branch -v 
-<mostra todos os últimos commits realizados nas branchs.>
+> mostra todos os últimos commits realizados nas branchs.
 // se quiser mesclar duas branch você pode utilizar o seguinte comando:
 git merge teste
 # e caso queira deletar uma branch
