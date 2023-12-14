@@ -25,7 +25,7 @@ cat config
 ou também é possível clonar apenas uma branch especifica:
 `git clone 'URL' --branch feature-1 --single-branch`
 
-## Informações adicionais sobra a criação de um novo repositório no GitHub
+## Informações adicionais sobre a criação de um novo repositório no GitHub
 - READ ME -> serve para descrever o projeto, ou quais as ferramentas utilizadas no projeto;
 - .gitignore -> Oculta os arquivos selecionados;
 - license -> Você define como as pessoas vão poder mexer no seu código, principalmente se for público.
