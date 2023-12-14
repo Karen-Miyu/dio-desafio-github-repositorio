@@ -1,4 +1,4 @@
-#Trabalhando com Branches: criando, mesclando, deletando e tratando conflitos
+# Trabalhando com Branches: criando, mesclando, deletando e tratando conflitos
 Código utilizado na aula:
 ````
 git commit -m"commit 0"
