@@ -25,5 +25,5 @@ cria uma nova branch chamada de _teste-2_
 git checkout teste
 ````
 retorna para a branch _teste_.
--`git stash pop`, traz as alterações aqui e exclui as mais recentes, ou 
--`git stash apply`, mantém a alteração da lista para o uso posterior.
+- `git stash pop`, traz as alterações aqui e exclui as mais recentes, ou 
+- `git stash apply`, mantém a alteração da lista para o uso posterior.
