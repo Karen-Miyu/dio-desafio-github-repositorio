@@ -53,7 +53,7 @@ Lista as chaves privatas e públicas, respectivamente.
 ````
 cat id_ed25519.pub
 ````
-Mostrará o conteúdo da chave pública, permitindo copiar e colar lá, que gerará uma nova chave SSH no GitHub.
+Gerará uma nova chave SSH no GitHub, permitindo copiar e colar.
 
 ## 🔎Links
 [Mais informações sobre Git](https://git-scm.com/doc)
