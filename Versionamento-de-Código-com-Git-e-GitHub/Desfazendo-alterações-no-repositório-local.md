@@ -12,7 +12,7 @@ mostra que não tem nenhum arquivo no git.
 
 > Para restaurar para a área de trabalho:
 Se você modifica o arquivo localmente, por exemplo apaga todo o conteúdo do arquivo README.md e salva, 
-você pode usar o comando 'git restore README.md', que irá restaurar deste a última modificação salva no git.
+você pode usar o comando `git restore README.md`, que irá restaurar deste a última modificação salva no git.
 
 > Para alterar os dados do último commit:
 Serve para alterar o nome do último commit.
