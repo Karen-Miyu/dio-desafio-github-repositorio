@@ -14,19 +14,20 @@ git log
 echo "#commit-2-branch-main" > commit-2-branch-main.txt
 git add .
 git checkout -b teste
-# alterna para essa nova branch chamada de 'teste'.
+````
+alterna para essa nova branch chamada de 'teste'.
+````
 echo "#commit-3-branch-main" > commit-3-branch-main.txt
 git add .
 git commit -m"commit 3"
 git checkout main
-#retorna para a branch 'main', e as alterações feitas na branch teste não aparece aqui.
-git branch -v 
-> mostra todos os últimos commits realizados nas branchs.
-// se quiser mesclar duas branch você pode utilizar o seguinte comando:
-git merge teste
-# e caso queira deletar uma branch
-git branch -D teste
 ````
+retorna para a branch 'main', e as alterações feitas na branch teste não aparece aqui.
+````
+git branch -v
+````
+Mostra todos os últimos commits realizados nas branchs.
+Se quiser mesclar duas branch você pode utilizar o seguinte comando: `git merge teste`, e caso queira deletar uma branch: `git branch -D teste`
 
 ## Conflito de versionamento
 Ocorre quando alguém altera remotamente, e você também faz alterações localmente e tenta enviar para o remoto, mas não consegue devido ao conflito entre os dois commits.
