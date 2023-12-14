@@ -29,7 +29,7 @@ Entra no editor para fazer alterações no commit de forma ampla. E para começa
 temos três opções:
 1. `git reset --soft`, coloca o commit na área de preparação;
 2. `git reset --mixed`, reseta o arquivo para a área de trabalho;
-3. `git reset --hard`, fará com que o arquivo seja apagado do commit, tanto da área de trabalho, quanto da área de preparação;
+3. `git reset --hard`, fará com que o arquivo seja apagado do commit, tanto da área de trabalho, quanto da área de preparação.
 
  `git reflog`, mostra o histórico das alterações.
 
