@@ -2,4 +2,4 @@
 Repositório criado para o desafio do projeto.
 
 ## Links úteis
-[Para saber mais sobre MarkDown (md)](https://www.markdownguide.org)
+[Para saber mais sobre MarkDown (.md)](https://www.markdownguide.org)
