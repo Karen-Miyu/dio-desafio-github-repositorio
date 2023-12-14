@@ -1,7 +1,7 @@
 # Trabalhando com Branches: Comandos úteis no dia a dia
 Códigos utilizados na aula:
 
-> Para baixar arquivos remotos:
+Para baixar arquivos remotos:
 -`git fetch origin main`, baixa as alterações.
 -`git diff main origin/main`, análisa as diferenças entre os arquivos já existente com o do remoto.
 -`git merge origin/main`, traz as modificações do remoto para localmente.
