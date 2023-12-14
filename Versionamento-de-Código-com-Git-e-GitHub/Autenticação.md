@@ -11,7 +11,6 @@ git config --global --list
 ````
 Vê as informações que você modificou.
 
-[Mais informações sobre Git](https://git-scm.com/doc)
 ````
 git config credential.helper store
 git config --global credential.helper
@@ -55,3 +54,6 @@ Lista as chaves privatas e públicas, respectivamente.
 cat id_ed25519.pub
 ````
 Mostrará o conteúdo da chave pública, permitindo copiar e colar lá, que gerará uma nova chave SSH no GitHub.
+
+# 🔎Links
+[Mais informações sobre Git](https://git-scm.com/doc)
