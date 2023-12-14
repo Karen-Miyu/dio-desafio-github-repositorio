@@ -39,7 +39,7 @@ Vai aparecer que está conflitando.
 ````
 git pull
 ````
-Abra o arquivo e veja as alterações feita remota e localmente. Isso permite escolha qual das alterações se deseja deixar.
+Abra o arquivo e veja as alterações feita remota e localmente. Isso permite escolher qual das alterações se deseja deixar.
 ````
 git add .
 git commit -m"commit após o conflito"
